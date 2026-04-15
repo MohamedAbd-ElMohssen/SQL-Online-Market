@@ -85,9 +85,3 @@ This project demonstrates a complete data engineering workflow using SQL, starti
    - Modeling
    - ETL
    - Analytics
-
----
-
-## 👨‍💻 Author
-
-Your Name
